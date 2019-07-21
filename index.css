@@ -1,0 +1,52 @@
+﻿body, h1 {
+    font-family: "Raleway", sans-serif
+}
+
+body, html {
+    height: 100%
+}
+
+.bgimg {
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+    background: #eeeeee;
+}
+
+em {
+    cursor: pointer;
+    font-size: 30px !important;
+    color: darkgray;
+    opacity: 0.6;
+    transition: 0.3s;
+}
+
+#github:hover {
+    color: black;
+    opacity: 1;
+}
+
+#twitter:hover {
+    color: #1da1f2;
+    opacity: 1;
+}
+
+#linkedin:hover {
+    color: #0073b1;
+    opacity: 1;
+}
+
+img {
+    width: 20rem ;
+}
+
+.introduction {
+    color: black;
+    font-weight:bold;
+    font-size: 20px;
+}
+
+.detail {
+    font-weight: normal;
+    font-size: 15px;
+}
