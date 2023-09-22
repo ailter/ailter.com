@@ -50,3 +50,8 @@ img {
     font-weight: normal;
     font-size: 15px;
 }
+
+#instagram:hover {
+    color: #C13584;
+    opacity: 1;
+}
